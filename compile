@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ *.cpp -o lexicalAnalyser
+exit 0
